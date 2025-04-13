@@ -260,7 +260,4 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE par
 
 [https://github.com/686f6c61/Conjetura-de-Collatz](https://github.com/686f6c61/Conjetura-de-Collatz)
 
-## Agradecimientos
 
-- A los matemáticos que han investigado la Conjetura de Collatz
-- A la comunidad de Python y matplotlib por sus excelentes herramientas
